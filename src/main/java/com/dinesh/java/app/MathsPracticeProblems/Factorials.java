@@ -14,6 +14,5 @@ public class Factorials {
 		}
 			System.out.println("Factorial of " + num + "is" + factnum);
 		
-
 	}
 }
